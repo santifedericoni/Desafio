@@ -5,8 +5,8 @@ API construida con Flask y conectada a MongoDB para gestionar y mostrar datos pa
 ## Instalación y ejecución
 1. **Clonar el repositorio**:
    ```bash
-   git clone URL_DEL_REPOSITORIO
-   cd NOMBRE_DEL_DIRECTORIO_DEL_PROYECTO
+   git clone https://github.com/santifedericoni/Desafio.git
+   cd Desafio
 2. **Crear un entorno virtual y activarlo**:
    ```bash
    python -m venv venv
